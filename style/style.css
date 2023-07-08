@@ -1,0 +1,57 @@
+body{
+    font-family:'Calibri', sans-serif;
+    background-color: #FAF0E4;    
+}
+hr{
+    border-width : 5px;
+    height: 2px;
+    width: 10%;
+    color: #F1C27B;
+    border-style: dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    
+}
+
+h1{
+    font-size: 45px;
+    color: #A3423C;
+}
+
+em, h4{
+    font-size: 25px;
+    margin: 0px;
+    color: #774E26;
+    
+}
+
+p{
+    margin-top: 5px;
+    font-size: 20px;
+    color: #224B0C;
+}
+ul{
+    font-size: 19px;
+    margin-top: 5px;
+    color: #41644A;
+}
+
+table{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #966C3B;
+}
+
+#contact-file{
+    font-size: 18px;
+}
+
+a{
+    color: #C9753D;
+}
